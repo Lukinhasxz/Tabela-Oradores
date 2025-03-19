@@ -1,0 +1,34 @@
+#tabela {
+    text-align: center;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+#data {
+    background-color:  #000F6E;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+#tema {
+    background-color:  #660000;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+
+#celular {
+    background-color:  #190033;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+#orador {
+    background-color:  #003319;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+#congregaçao {
+    background-color:  #000000;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+}
+body {
+    background-color: black;
+}
